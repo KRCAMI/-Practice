@@ -9,3 +9,4 @@ git commit -m '커밋할때 전하고싶은 내용입니다.'
 git branch -M main 
 git remote add origin (내가 올리고자 하는 곳의 레포지토리 주소)
 git push -u origin main
+업로드 완료
